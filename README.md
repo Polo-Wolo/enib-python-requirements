@@ -6,7 +6,7 @@ ENIB python environment for basic usage.
 2. Open a terminal ```cmd.exe```
 3. Clone the repository on your PC
 ```bash
-git clone https://github.com/Polo-Wolo/python-requirements.git
+git clone https://github.com/Polo-Wolo/enib-python-requirements.git
 ```
 4. Open your cloned folder
 ```bash

@@ -2,7 +2,7 @@
 ENIB python environment for basic usage.
 
 ## Installation
-1. Download and Install [Python3.10.4](https://www.python.org/ftp/python/3.10.4/python-3.10.4-amd64.exe) and [git](https://git-scm.com/download/win)
+1. Download and Install [Python3.10.4](https://www.python.org/ftp/python/3.10.4/python-3.10.4-amd64.exe) and [git](https://git-scm.com/download/win)   ( links are only for Windows OS )
 2. Open a terminal ```cmd.exe```
 3. Clone the repository on your PC
 ```bash

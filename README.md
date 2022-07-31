@@ -10,7 +10,7 @@ git clone https://github.com/Polo-Wolo/enib-python-requirements.git
 ```
 4. Open your cloned folder
 ```bash
-cd python-requirements
+cd enib-python-requirements
 ```
 5. Install pip
 ```bash
